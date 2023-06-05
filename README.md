@@ -28,9 +28,9 @@ $ npm start
 ```
 
 ## Development
-JSON:
+JSON:  
 ![json_image](https://github.com/Alar-q/JSON2EXCEL/blob/main/images/object.png)
-EXCEL:
+EXCEL:  
 ![excel_image](https://github.com/Alar-q/JSON2EXCEL/blob/main/images/excel.png)
 
 ▄───▄  
