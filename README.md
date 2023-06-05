@@ -1,10 +1,12 @@
 # JSON2EXCEL
-convert json to excel for documentation needs
+Convert json to excel for documentation needs.
 
 ## Concierge Back-end
 
 ## Getting Started
-These instructions will help you start and run a copy of the project on your local computer for development and testing purposes.
+These instructions will help you start and run 
+a copy of the project on your local computer 
+for development and testing purposes.
 
 Start with cloning this repo on your local machine:
 
