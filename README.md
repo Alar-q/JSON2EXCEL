@@ -30,6 +30,10 @@ $ npm start
 ```
 
 ## Development
+JSON:
+![json_image](https://github.com/Alar-q/JSON2EXCEL/blob/main/images/excel.png)
+EXCEL:
+![excel_image](https://github.com/Alar-q/JSON2EXCEL/blob/main/images/excel.png)
 
 ▄───▄  
 █▀█▀█  
