@@ -30,10 +30,6 @@ $ npm start
 ```
 
 ## Development
-Точка входа - index.js
-
-## Licence
-[MIT License](https://github.com/Alar-q/JSON2EXCEL/blob/main/LICENSE)
 
 ▄───▄  
 █▀█▀█  
@@ -42,3 +38,6 @@ $ npm start
 ─████▐█─█  
 ─████───█  
 ─▀▀▀▀▀▀▀  
+
+## Licence
+[MIT License](https://github.com/Alar-q/JSON2EXCEL/blob/main/LICENSE)
