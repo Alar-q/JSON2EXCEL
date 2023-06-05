@@ -1,8 +1,6 @@
 # JSON2EXCEL
 Convert json to excel for documentation needs.
 
-## Concierge Back-end
-
 ## Getting Started
 These instructions will help you start and run 
 a copy of the project on your local computer 
@@ -31,7 +29,7 @@ $ npm start
 
 ## Development
 JSON:
-![json_image](https://github.com/Alar-q/JSON2EXCEL/blob/main/images/excel.png)
+![json_image](https://github.com/Alar-q/JSON2EXCEL/blob/main/images/object.png)
 EXCEL:
 ![excel_image](https://github.com/Alar-q/JSON2EXCEL/blob/main/images/excel.png)
 
