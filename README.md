@@ -41,5 +41,8 @@ $ npm start
 
 ## Licence
 [MIT License](https://github.com/Alar-q/JSON2EXCEL/blob/main/LICENSE)
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 19536a8b74d144bee76d15a0da337a5abbbf35ec
