@@ -1,0 +1,24 @@
+{
+  "object_field": {
+    "a": "a",
+    "n": 123123,
+    "nested_object": {
+      "b": "b"
+    },
+    "array": [1, 2, 3],
+    "array_of_objects": [
+      {
+        "c": "c1", 
+        "d": "d1"
+      },
+      {
+        "c": "c2", 
+        "d": "d2"
+      }
+    ]
+  },
+  "string_field1": "some string",
+  "string_field2": "string",
+  "number_field": 123,
+  "data_field": "2023-05-19T05:40:44.275Z"
+}
