@@ -20,5 +20,6 @@
   "string_field1": "some string",
   "string_field2": "string",
   "number_field": 123,
+  "null_field": null,
   "data_field": "2023-05-19T05:40:44.275Z"
 }

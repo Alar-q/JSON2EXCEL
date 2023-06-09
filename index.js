@@ -67,7 +67,9 @@ function objectsTraversal(obj, nesting){
     // startRow, startCol, endRow, endCol
     worksheet.mergeCells(row, nesting, row, jsonDataDepth);
     // Пример
-    worksheet.getCell(row, jsonDataDepth + 1).value = Array.isArray(obj[key]) ? 'array' : (isDateString(obj[key]) ? 'date' : typeof obj[key]);
+    worksheet.getCell(row, jsonDataDepth + 1).value = Array.isArray(obj[key]) ? 'array' : 
+                                                    (isDateString(obj[key]) ? 'date' : 
+                                                    (obj[key] === null ? 'string' : typeof obj[key]));
     // Название поля, но если поле - массив, то определяем [индекс] 
     worksheet.getCell(row, nesting).value = Array.isArray(obj) ? `[${key}]` : key;
 
